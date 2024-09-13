@@ -8,12 +8,11 @@ This project provides a Go wrapper for the Windows Volume Shadow Copy Service (V
 - Handle VSS errors with custom error types.
 - Support for various VSS contexts and backup types.
 - Query and manipulate VSS snapshot properties.
-- Asynchronous operations with VSS API.
 
 ## Requirements
 
 - Windows operating system.
-- Go 1.16 or later.
+- Go 1.20 or later.
 
 ## Installation
 
